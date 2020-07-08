@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutterflashchat/bloc/auth_block/authentication_bloc.dart';
+import 'package:flutterflashchat/auth/auth_block/authentication_bloc.dart';
 import 'package:flutterflashchat/components/message_bubble.dart';
 import 'package:flutterflashchat/constants.dart';
 

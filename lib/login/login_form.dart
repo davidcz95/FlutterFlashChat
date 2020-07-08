@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutterflashchat/bloc/auth_block/authentication_bloc.dart';
+import 'package:flutterflashchat/auth/auth_block/authentication_bloc.dart';
 import 'package:flutterflashchat/repositories/user_repository.dart';
 import 'package:flutterflashchat/screens/chat_screen.dart';
 

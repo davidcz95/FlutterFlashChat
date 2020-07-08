@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutterflashchat/bloc/auth_block/authentication_bloc.dart';
 import 'package:flutterflashchat/repositories/user_repository.dart';
 import 'package:flutterflashchat/screens/chat_screen.dart';
 import 'package:flutterflashchat/screens/login_screen.dart';
 import 'package:flutterflashchat/screens/splash_screen.dart';
 
-import 'file:///C:/Users/David/AndroidStudioProjects/flutter_flash_chat/lib/bloc/simple_bloc_delegate.dart';
+import 'auth/auth_block/authentication_bloc.dart';
+import 'auth/simple_bloc_delegate.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
