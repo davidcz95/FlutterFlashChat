@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "221614826814",
+    "firebase_url": "https://flash-chat-d45a9.firebaseio.com",
+    "project_id": "flash-chat-d45a9",
+    "storage_bucket": "flash-chat-d45a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221614826814:android:a818a6f7b9d547c2d5f86f",
+        "android_client_info": {
+          "package_name": "com.davidcz.flashchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221614826814-fqp1ek7i6tol2f0tn0f0gjqgluiqokq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANuZ1RaiFQjitUy7q8i_HHiybNBXC4Rvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221614826814-fqp1ek7i6tol2f0tn0f0gjqgluiqokq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221614826814:android:bcca5542aa0a8738d5f86f",
+        "android_client_info": {
+          "package_name": "com.davidcz.flushchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221614826814-fqp1ek7i6tol2f0tn0f0gjqgluiqokq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANuZ1RaiFQjitUy7q8i_HHiybNBXC4Rvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221614826814-fqp1ek7i6tol2f0tn0f0gjqgluiqokq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221614826814:android:da5ea24e96d3eb66d5f86f",
+        "android_client_info": {
+          "package_name": "com.davidcz.flutterflashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221614826814-fqp1ek7i6tol2f0tn0f0gjqgluiqokq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANuZ1RaiFQjitUy7q8i_HHiybNBXC4Rvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221614826814-fqp1ek7i6tol2f0tn0f0gjqgluiqokq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
